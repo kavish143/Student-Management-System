@@ -1,0 +1,6 @@
+com\data\service\StudentService.class
+com\data\StudentDataApplication.class
+com\data\service\StudentServiceImpl.class
+com\data\repository\StudentRepository.class
+com\data\entities\Student.class
+com\data\controller\StudentController.class
